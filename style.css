@@ -106,3 +106,11 @@
     font-weight: 700;
     color: #758d9a;
 }
+
+@media screen and (max-width:768px) {
+    .card {
+        margin: 2px auto;
+        flex: 23% 0 1;
+        height: 27vw;
+    }
+}
